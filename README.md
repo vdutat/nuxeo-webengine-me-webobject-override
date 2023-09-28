@@ -30,7 +30,9 @@ mvn clean install
 
 ## Installation
 
+```
 nuxeoctl mp-install nuxeo-webengine-me-webobject-override-package/target/nuxeo-webengine-me-webobject-override-*.zip
+```
 
 ## Usage
 
