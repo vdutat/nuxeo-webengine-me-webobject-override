@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.acme.webengine
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-webengine-me-webobject-override-web
+Bundle-ManifestVersion: 2
+Fragment-Host: org.nuxeo.ecm.platform.restapi.server
+Bundle-SymbolicName: com.acme.webengine.nuxeo-webengine-me-webobject-override-web;singleton=true
